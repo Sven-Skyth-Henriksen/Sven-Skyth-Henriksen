@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on Data Science and AI related projects
 - 📫 Reach me: sven.skyth.henriksen@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Skyth-Henriksen&show_icons=true&theme=ondark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Skyth-Henriksen&show_icons=true&theme=radical)
