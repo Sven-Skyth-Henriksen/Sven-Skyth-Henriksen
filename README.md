@@ -17,7 +17,7 @@
 <br />
 <br />
 
-A **Artificial Intelligence** ***Enthusiast*** 🚀.
+**Artificial Intelligence** ***Enthusiast*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -33,10 +33,10 @@ A **Artificial Intelligence** ***Enthusiast*** 🚀.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Skyth-Henriksen&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jas-Script&count_private=true&theme=radical" alt="Jas-Script" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
 
 ----
-Credit: [Jas-Script](https://github.com/Jas-Script)
+Credit: [Sven-Skyth-Henriksen](https://github.com/Sven-Skyth-Henriksen)
 
 Last Edited on: 03/06/2021
