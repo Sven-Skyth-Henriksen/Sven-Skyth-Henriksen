@@ -38,7 +38,7 @@
 
 ## :headphones: Spotify Playing
 
-[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5acZuTakrvkqnvnF2StyXd?si=a2fcfa76abcf428f) [![Rock](https://img.shields.io/badge/KPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4kXX8Rrq6N0CUVc6wbvfmS?si=476a212b9494483a) [![Metal](https://img.shields.io/badge/PPOP%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/71J6SiRcotLpLW73eGSnTC?si=72371e8f8f0146e8)
+[![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5acZuTakrvkqnvnF2StyXd?si=a2fcfa76abcf428f)
 
 [![Spotify](https://readme-spotify.sven_henriksen.com/api/spotify)](https://open.spotify.com/user/sven_henriksen?si=9ceb106e21fe4189)
 
