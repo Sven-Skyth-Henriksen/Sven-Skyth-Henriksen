@@ -36,7 +36,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
 
-## :headphones: Spotify Playing
+## :headphones: Spotify
 
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5acZuTakrvkqnvnF2StyXd?si=a2fcfa76abcf428f)
 
