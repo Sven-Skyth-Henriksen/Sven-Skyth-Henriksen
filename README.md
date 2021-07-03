@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Jaskirat!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Sven!</h3>
 
 <a href="https://www.linkedin.com/in/sven-skyth-henriksen-4857bb1a2/">
   <img align="left" alt="Sven's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
