@@ -43,6 +43,4 @@
 [![Spotify](https://readme-spotify.sven_henriksen.com/api/spotify)](https://open.spotify.com/user/sven_henriksen?si=9ceb106e21fe4189)
 
 ----
-Credit: [Sven-Skyth-Henriksen](https://github.com/Sven-Skyth-Henriksen)
-
 Last Edited on: 03/06/2021
