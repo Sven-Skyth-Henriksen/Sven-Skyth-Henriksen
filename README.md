@@ -1,4 +1,4 @@
-# Hi there, I'm Sven <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there,  I'm Sven <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💻 I’m interested in Data Science and AI applications
 - 🌱 I’m currently learning AI Engineering
