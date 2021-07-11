@@ -55,7 +55,7 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/google/mediapipe/raw/master/docs/images/mediapipe_small.png"></code>
-<code><img width="10%" src="https://www.filesilo.co.uk/wp-content/uploads/2014/10/kivy.jpg"></code>
+<code><img width="10%" src="https://camo.githubusercontent.com/41f975a6cc0c515fdc45813bd9162272b3dcccd35320840e786f166eac1304db/687474703a2f2f692e696d6775722e636f6d2f534645645039572e706e67"></code>
 <br />
 <code><img width="10%" src="https://repository-images.githubusercontent.com/284716598/5af8e880-d8ba-11ea-9ce1-e5e8d603143f"></code>
 </p>
