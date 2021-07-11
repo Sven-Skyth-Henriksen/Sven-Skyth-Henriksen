@@ -51,7 +51,7 @@
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code> 
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888859.png"></code>
-<code><img width="10%" src="https://image.flaticon.com/icons/png/128/919/919826.png"></code>
+<code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888847.png"></code>
 </p>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 
