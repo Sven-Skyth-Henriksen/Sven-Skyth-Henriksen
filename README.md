@@ -52,8 +52,13 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code> 
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888859.png"></code>
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888847.png"></code>
-</p>
+<br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://github.com/google/mediapipe/raw/master/docs/images/mediapipe_small.png"></code>
+</p>
+
+
 
 ## :headphones: Spotify
 
