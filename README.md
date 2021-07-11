@@ -54,8 +54,8 @@
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888847.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<br />
 <code><img width="10%" src="https://github.com/google/mediapipe/raw/master/docs/images/mediapipe_small.png"></code>
+<code><img width="10%" src="https://www.filesilo.co.uk/wp-content/uploads/2014/10/kivy.jpg"></code>
 </p>
 
 
