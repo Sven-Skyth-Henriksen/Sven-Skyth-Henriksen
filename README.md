@@ -50,7 +50,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>  
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code> 
+<code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-ar21.svg"></code>
 </p>
 
 
