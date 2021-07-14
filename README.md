@@ -38,7 +38,7 @@
 <br>
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
 
-### :computer: Programming languages and tools: 
+### :computer: Programming languages and tools :toolbox: : 
 <p>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
