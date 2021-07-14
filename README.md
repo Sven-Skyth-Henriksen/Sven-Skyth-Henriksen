@@ -58,6 +58,8 @@
 <code><img width="10%" src="https://camo.githubusercontent.com/41f975a6cc0c515fdc45813bd9162272b3dcccd35320840e786f166eac1304db/687474703a2f2f692e696d6775722e636f6d2f534645645039572e706e67"></code>
 <br />
 <code><img width="10%" src="https://repository-images.githubusercontent.com/284716598/5af8e880-d8ba-11ea-9ce1-e5e8d603143f"></code>
+  <code><img width="10%" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png"></code>
 </p>
 
 
