@@ -64,6 +64,8 @@
 <code><img width="10%" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
 <code><img width="10%" src="http://seaborn.pydata.org/_images/logo-wide-lightbg.svg"></code>
 <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-lightmark-lighttext.png"></code>
+<br />
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
 </p>
 
 
