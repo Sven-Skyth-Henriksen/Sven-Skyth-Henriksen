@@ -63,6 +63,7 @@
 <br />
 <code><img width="10%" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
 <code><img width="10%" src="http://seaborn.pydata.org/_images/logo-wide-lightbg.svg"></code>
+<code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg"></code>
 </p>
 
 
