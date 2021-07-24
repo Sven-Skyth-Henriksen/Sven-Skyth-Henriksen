@@ -38,6 +38,8 @@
 <br>
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
 
+<hr>
+<br>
 ### :computer: Programming languages and tools :toolbox: : 
 <p>
 
