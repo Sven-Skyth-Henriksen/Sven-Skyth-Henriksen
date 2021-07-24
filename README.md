@@ -69,6 +69,13 @@
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png"></code>
 </p>
 
+### :computer: Programming languages and tools I'm learning :toolbox: : 
+<p>
+
+<code><img width="10%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d382c4826ad8a3805f72b9df3ab5b56e/keras.png"></code>
+<code><img width="10%" src="https://cdn-blog.adafruit.com/uploads/2019/10/256px-TensorFlowLogo.svg_.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
+
 
 
 
