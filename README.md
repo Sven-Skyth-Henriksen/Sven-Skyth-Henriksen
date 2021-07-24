@@ -54,7 +54,7 @@
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888847.png"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://github.com/google/mediapipe/raw/master/docs/images/mediapipe_small.png"></code>
+<code><img width="10%" src="https://google.github.io/mediapipe/images/logo_horizontal_color.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png"></code>
 <br />
 <code><img width="10%" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"></code>
@@ -66,7 +66,7 @@
 <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-lightmark-lighttext.png"></code>
 <br />
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
-  <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png"></code>
 </p>
 
 
