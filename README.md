@@ -53,11 +53,11 @@
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888859.png"></code>
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888847.png"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://google.github.io/mediapipe/images/logo_horizontal_color.png"></code>
+<code><img width="10%" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png"></code>
 <br />
-<code><img width="10%" src="https://kivymd.readthedocs.io/en/latest/_static/logo-kivymd.png"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://pandas.pydata.org/static/img/partners/anaconda.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1024px-Pandas_logo.svg.png"></code>
 <br />
