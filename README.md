@@ -66,7 +66,9 @@
 <code><img width="10%" src="https://streamlit.io/images/brand/streamlit-logo-secondary-lightmark-lighttext.png"></code>
 <br />
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"></code>
+  <code><img width="10%" src="https://img.shields.io/badge/made%20with%20❤%20and-spaCy-09a3d5.svg"></code>
 </p>
+
 
 
 
@@ -75,4 +77,4 @@
 [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5acZuTakrvkqnvnF2StyXd?si=a2fcfa76abcf428f)
 
 ----
-Last Edited on: 14/06/2021
+Last Edited on: 24/06/2021
