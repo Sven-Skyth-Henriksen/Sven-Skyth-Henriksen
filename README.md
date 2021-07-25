@@ -82,6 +82,8 @@
 <code><img width="10%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d382c4826ad8a3805f72b9df3ab5b56e/keras.png"></code>
 <code><img width="10%" src="https://cdn-blog.adafruit.com/uploads/2019/10/256px-TensorFlowLogo.svg_.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
+  <br />
+<code><img width="10%" src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png"></code>
 
 
 <br>
