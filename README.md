@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/sven-skyth-henriksen-4857bb1a2/">
   <img align="left" alt="Sven's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/svenfit97/">
+<a href="https://www.instagram.com/sven_henriksen/">
   <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/sven.henriksen.79">
