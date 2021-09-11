@@ -81,7 +81,7 @@
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
   <br />
 <code><img width="10%" src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png"></code>
-
+<code><img width="10%" src="https://img1.pnghut.com/24/7/3/RMMysjGSYy/rgb-color-model-web-browser-internet-computer-software-html.jpg"></code>
 
 <br>
 <hr>
