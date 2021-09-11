@@ -81,7 +81,7 @@
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
   <br />
 <code><img width="10%" src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1200px-Unreal_Engine_Logo.svg.png"></code>
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/550px-UE_Logo_Black_Centered.svg.png"></code>
 
 <br>
 <hr>
