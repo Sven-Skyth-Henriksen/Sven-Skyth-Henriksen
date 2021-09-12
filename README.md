@@ -21,7 +21,7 @@
 
 **About Me!**
 
-- 💻 I’m interested in Web Development and AI applications.
+- 💻 I’m interested in Web Development, AI applications and Game Development.
 - 🌱 I’m looking to collaborate on Computer Vision and AI related projects.
 - 📫 Reach me: sven.skyth.henriksen@gmail.com 
 
