@@ -10,7 +10,6 @@
   <img align="left" alt="Sven's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
  
-
 <br />
 <br />
 
