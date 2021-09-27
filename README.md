@@ -83,7 +83,7 @@
   <br />
 <code><img width="10%" src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/550px-UE_Logo_Black_Centered.svg.png"></code>
-
+<code><img width="10%" src="https://icon-library.com/images/django-icon/django-icon-8.jpg"></code>
 <br>
 <hr>
 
