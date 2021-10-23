@@ -29,7 +29,6 @@
 
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sven-Skyth-Henriksen&show_icons=true&theme=radical)
 <br>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sven-Skyth-Henriksen&count_private=true&theme=radical" alt="Sven-Skyth-Henriksen" />
