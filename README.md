@@ -13,7 +13,7 @@
   <img align="left" alt="Sven's Facebook" width="24px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1635341915~hmac=8c2cf66f9e7a3f2c7d975cf29b503d73" />
 </a>
 <a href="http://www.svenskythhenriksen.com/">
-  <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn-icons.flaticon.com/png/512/1927/premium/1927746.png?token=exp=1635341947~hmac=269f9953c61fdeb80a5dc184870bb1a1" />
+  <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn-icons.flaticon.com/png/512/3308/premium/3308395.png?token=exp=1635341947~hmac=bbb99a810902bbcd203af92e10c2ca1c" />
 </a>
 
  
