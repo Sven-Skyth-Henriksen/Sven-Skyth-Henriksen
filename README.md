@@ -1,16 +1,19 @@
 <h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Sven!</h3>
 
+
+
 <a href="https://www.linkedin.com/in/sven-skyth-henriksen-4857bb1a2/">
-  <img align="left" alt="Sven's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sven's LinkedIn" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-
-
 
 <a href="https://www.instagram.com/sven_henriksen/">
   <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.facebook.com/sven.henriksen.79">
-  <img align="left" alt="Sven's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Sven's Facebook" width="24px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1635341915~hmac=8c2cf66f9e7a3f2c7d975cf29b503d73" />
+</a>
+<a href="http://www.svenskythhenriksen.com/">
+  <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn-icons.flaticon.com/png/512/1927/premium/1927746.png?token=exp=1635341947~hmac=269f9953c61fdeb80a5dc184870bb1a1" />
 </a>
 
  
