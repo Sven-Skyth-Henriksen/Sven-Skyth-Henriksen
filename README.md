@@ -7,7 +7,7 @@
 
 
 <a href="https://www.instagram.com/sven_henriksen/">
-  <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sven's Instagram" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.facebook.com/sven.henriksen.79">
   <img align="left" alt="Sven's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
