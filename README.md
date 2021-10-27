@@ -1,4 +1,4 @@
-<h3 title="title" width="40px"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Sven!</h3>
+<h3 title="title" width="50px"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Sven!</h3>
 
 
 
