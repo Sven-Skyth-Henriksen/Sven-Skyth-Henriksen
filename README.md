@@ -51,7 +51,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code> 
+<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888859.png"></code>
 <code><img width="10%" src="https://image.flaticon.com/icons/png/128/888/888847.png"></code>
 <br />
@@ -71,6 +71,7 @@
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/2560px-SpaCy_logo.svg.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png"></code>
 </p>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 
 
 
@@ -83,11 +84,11 @@
 
 <code><img width="10%" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_d382c4826ad8a3805f72b9df3ab5b56e/keras.png"></code>
 <code><img width="10%" src="https://cdn-blog.adafruit.com/uploads/2019/10/256px-TensorFlowLogo.svg_.png"></code>
-<code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png"></code>
+<code><img width="10%" src="https://icon-library.com/images/django-icon/django-icon-8.jpg"></code>
   <br />
 <code><img width="10%" src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/UE_Logo_Black_Centered.svg/550px-UE_Logo_Black_Centered.svg.png"></code>
-<code><img width="10%" src="https://icon-library.com/images/django-icon/django-icon-8.jpg"></code>
+
 <br>
 <hr>
 
@@ -102,4 +103,4 @@
 <br>
 
 ----
-Last Edited on: 17/10/2021
+Last Edited on: 27/10/2021
