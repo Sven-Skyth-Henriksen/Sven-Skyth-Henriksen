@@ -8,7 +8,7 @@
 
 
 <a href="https://www.instagram.com/sven_henriksen/">
-  <img align="left" alt="Sven's Instagram" width="28px" src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" />
+  <img align="left" alt="Sven's Instagram" width="28px" src="https://img.icons8.com/plasticine/200/000000/instagram-new--v2.png" />
 </a>
 <a href="https://www.facebook.com/sven.henriksen.79">
   <img align="left" alt="Sven's Facebook" width="28px"  src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" />
