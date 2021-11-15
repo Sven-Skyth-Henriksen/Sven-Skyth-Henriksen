@@ -3,12 +3,12 @@
 
 
 <a href="https://www.linkedin.com/in/sven-skyth-henriksen-4857bb1a2/">
-  <img align="left" alt="Sven's LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="left" alt="Sven's LinkedIn" width="28px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
 </a>
 
 
 <a href="https://www.instagram.com/sven_henriksen/">
-  <img align="left" alt="Sven's Instagram" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
+  <img align="left" alt="Sven's Instagram" width="28px" src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" />
 </a>
 <a href="https://www.facebook.com/sven.henriksen.79">
   <img align="left" alt="Sven's Facebook" width="28px"  src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-facebook-social-media-justicon-lineal-color-justicon.png" />
@@ -28,8 +28,8 @@
 
 **About Me!**
 
-- 💻 I’m interested in Web Development, AI applications and Game Development.
-- 🌱 I’m looking to collaborate on Computer Vision and AI related projects.
+- 💻 I’m interested in *Web Development, AI applications, Game Development and Ethical Hacking*.
+- 🌱 I’m looking to collaborate on Computer Vision, AI related projects or helping out with Cybersecurity.
 - 📫 Reach me: sven.skyth.henriksen@gmail.com 
 
 
