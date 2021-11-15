@@ -11,7 +11,7 @@
   <img align="left" alt="Sven's Instagram" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 <a href="https://www.facebook.com/sven.henriksen.79">
-  <img align="left" alt="Sven's Facebook" width="28px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504903.png?token=exp=1635341915~hmac=8c2cf66f9e7a3f2c7d975cf29b503d73" />
+  <img align="left" alt="Sven's Facebook" width="28px" src="https://img.icons8.com/plasticine/100/000000/facebook-new.png" />
 </a>
 <a href="http://www.svenskythhenriksen.com/">
   <img align="left" alt="Sven's Website" width="28px" src="https://img.icons8.com/fluency/48/000000/domain.png" />
