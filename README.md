@@ -1,7 +1,6 @@
 <h3 title="title"> Hey <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I'm Sven!</h3>
 
 
-
 <a href="https://www.linkedin.com/in/sven-skyth-henriksen-4857bb1a2/">
   <img align="left" alt="Sven's LinkedIn" width="28px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />
 </a>
